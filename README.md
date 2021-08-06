@@ -79,7 +79,7 @@
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/128566121-13d63420-8361-401e-ad39-2e5bedbd174e.png">
   <br />
-  Kali Linux Desktop
+  Parrot Security OS Desktop
 </h3>
 
 # Getting Software
