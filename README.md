@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128566111-d3bf3de5-d414-432f-a4bf-0049a27570a5.png">
   <br />
   Parrot Security OS Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide on setting up your Parrot Security Linux Desktop with all the essential Applications, Tools, and Games to make your experience with Parrot Security Linux great! This may not be perfect guide for everyone but I feel there is at least one or more perfect solutions for New and Advanced Parrot Security Linux users.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/128566116-28363ba8-ad10-453c-9fe5-7857e11c136b.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -71,11 +76,11 @@
 
 [Rufus](https://rufus.ie/) is a small application that creates bootable USB drives, which can then be used to install or run Microsoft Windows, Linux or DOS.
 
-<h1 align="center">
- <img src="">
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128566121-13d63420-8361-401e-ad39-2e5bedbd174e.png">
   <br />
   Kali Linux Desktop
-</h1>
+</h3>
 
 # Getting Software
 [Back to the Top](https://github.com/mikeroyal/Parrot-Security-Guide#table-of-contents)
